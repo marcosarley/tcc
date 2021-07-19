@@ -1,0 +1,30 @@
+body{
+    background-color: #F5F5F5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 25px;
+    text-align: left;
+}
+
+fieldset {
+    background-color: #87CEEB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 25px;
+    text-align: center;
+    margin: 10px;
+    border: solid 1px #fff;
+    border-radius: 10px;
+}
+form{
+    width: 900px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+div{
+    width: 900px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}   
